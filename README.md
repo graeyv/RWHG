@@ -39,7 +39,7 @@ All central functions needed to run the **Random Walk over a Heterogeneous Graph
 ---
 
 ### `notebooks/`
-Four example Jupyter notebooks demonstrating how to use the functions from `src/` to run RWHG, illustrated using the 49th legislative period within-matrix prediction setup.
+Four example Jupyter notebooks demonstrating how to use the functions from `src/` to run RWHG, illustrated using the 49th legislative period within-matrix prediction setup. Also includes an example notebook which shows how to access the webservice of the Swiss Parliament. 
 
 ---
 
